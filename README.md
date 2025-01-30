@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Eleazar</h1>
-<h3 align="center">Senior Computer Science student with experience in software development, full-stack web development, and machine learning.
+<h3 align="center">Senior Year Computer Science student with experience in software development, full-stack web development, and machine learning.
   Soft skills in teamwork, communication, and problem-solving.Passionate about learning new technologies and tackling technical challenges in agile environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=df478&label=Profile%20views&color=0e75b6&style=flat" alt="df478" /> </p>
